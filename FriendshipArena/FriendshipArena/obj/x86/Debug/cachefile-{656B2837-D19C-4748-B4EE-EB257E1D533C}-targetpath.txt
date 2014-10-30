@@ -1,0 +1,7 @@
+Content\Sprites\cursor_SPR.xnb
+Content\Sprites\pixel_SPR.xnb
+Content\Sprites\enemy_SPR.xnb
+Content\Fonts\lilyUPCFont.xnb
+Content\Sprites\players_SpriteSheet.xnb
+Content\Sprites\enemy_SpriteSheet.xnb
+Content\Textures\texture_SpriteSheet.xnb
